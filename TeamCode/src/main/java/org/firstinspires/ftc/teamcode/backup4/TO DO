@@ -1,0 +1,16 @@
+alle constanten invullen, ik kan ze invullen via de telemetry
+test of de autonomous werkt
+
+
+
+
+
+niet vergeten:
+HD motor 30 ticks per cm
+
+hex core motor 3,3333333 ticks per graden
+450 ticks max
+
+gyro 90 = 79
+
+stick drift right Y, normal controller 0.2043
